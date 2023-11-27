@@ -8,6 +8,12 @@ Name of the project: Landmark recognition based on Kaggle data
 Link to Kaggle project: https://www.kaggle.com/competitions/landmark-recognition-2021
 The description of the project:
 
+
+
+We made both the model and evaluation in jupyter notebook, everything is well commented and documented. Please DO NOT RERUN the notebooks, because we have 100 GB data to work with, and we could not find a suitable location in the cload, to make it perfectly runable on the servers.
+
+
+
 Welcome to the fourth Landmark Recognition competition! This year, we introduce a lot more diversity in the challenge’s test images in order to measure global landmark recognition performance in a fairer manner. And following last year’s success, we set this up as a code competition.
 
 Have you ever gone through your vacation photos and asked yourself: What is the name of this temple I visited in China? Who created this monument I saw in France? Landmark recognition can help! This technology can predict landmark labels directly from image pixels, to help people better understand and organize their photo collections. This competition challenges Kagglers to build models that recognize the correct landmark (if any) in a dataset of challenging test images.
