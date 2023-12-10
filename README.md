@@ -13,6 +13,9 @@ The description of the project:
 We made both the model and evaluation in jupyter notebook, everything is well commented and documented. Please DO NOT RERUN the notebooks, because we have 100 GB data to work with, and we could not find a suitable location in the cload, to make it perfectly runable on the servers.
 
 
+The ViT model was implemented with modularization method. To run the code, please replace the working directory path in the utils.py program, than you can run the train.py program, to train a new Visual Transformer model. Please consider the big memory need of the program. We had to lower the resolution of all the images because of the RAM requirenments of the model, therefore it could not learn anything :(
+Of cource, if we had a better computer, we could have made a good model with this code, but this reamins a very interesing reserch project in our final work.
+
 
 Welcome to the fourth Landmark Recognition competition! This year, we introduce a lot more diversity in the challenge’s test images in order to measure global landmark recognition performance in a fairer manner. And following last year’s success, we set this up as a code competition.
 
